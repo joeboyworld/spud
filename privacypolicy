@@ -1,0 +1,45 @@
+Privacy Policy
+Effective Date: 1 January 2025
+
+1. Introduction
+This application (“the App”) is a personal project designed to monitor incoming emails and generate draft replies automatically. All data handling occurs locally, and any automated email drafts are under the user’s direct control.
+
+2. Scope of This Policy
+This Privacy Policy describes how the App collects, uses, and safeguards information. Because this App is used solely by the developer/owner (the “User”) for personal email management, any processing of data is limited to these personal, offline purposes.
+
+3. Data Collection and Usage
+Email Access:
+The App uses OAuth2 to access the User’s Gmail account. This allows the App to fetch email data (e.g., sender, subject, email body) for the sole purpose of generating automated draft responses.
+
+Draft Generation:
+Email data is processed locally by an AI component to create suggested replies. These replies remain drafts until the User reviews and sends them. The App does not send emails automatically without the User’s explicit approval.
+
+Local Processing:
+All email data and drafts are stored and processed on the User’s own device. The App does not transmit or store data on external servers, and it does not share email data with any third parties.
+
+4. Data Sharing
+No Third‐Party Sharing:
+The App does not share personal data (including email contents or tokens) with external parties.
+
+No Commercial Use:
+The App is not used for commercial purposes or made available to the general public. It is a private, personal utility.
+
+5. Data Retention and Security
+Local Storage:
+Any tokens or cached email content remain on the User’s own device. The App relies on standard security measures (e.g., operating system permissions) to protect local data.
+
+Token Management:
+OAuth tokens for Gmail are stored locally and used only for fetching email content and drafting replies. If the token expires, the User must manually renew it.
+
+6. User Control
+Draft Review:
+The User can review all AI-generated replies before they are sent. No emails are sent automatically without the User’s consent.
+
+Deletion of Data:
+Because email data is only stored locally, the User may delete any associated tokens or cached data at any time by removing the files in which they are stored.
+
+7. Changes to This Policy
+Because this App is for personal use and not publicly distributed, changes to this policy will typically be minimal. However, if the User decides to expand functionality or distribution, the policy will be updated accordingly.
+
+8. Contact Information
+For any questions or concerns about this Privacy Policy, please contact the sole User and owner of this App.
